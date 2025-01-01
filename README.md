@@ -11,14 +11,14 @@
 <p>As elite Year 4 scientists, you have been tasked with retrieving the information buried deep in my systems. However, it won’t be easy. My code is equipped with multiple layers of security protocols, designed to challenge and ensure that only the brightest and most persistent can access the information. You will face tests of logic, problem-solving, and scientific understanding as you navigate through these barriers. </p>
 
 <p>Time is of the essence. With each passing moment, the SigmaDecay Virus spreads further, endangering millions. The clock is ticking, and the world is counting on you. Will you rise to the occasion and unlock the secrets within before it’s too late? Or will the SigmaDecay Virus slip beyond humanity's grasp? The fate of the future lies in your hands.</p>
-<br></br>
-<br></br>
+<br>
+<br>
 
 <p style="color:PowderBlue;">The first clue is enin owt orez eerht enin ruof. Decipher it to be lead to the next site.</p>
 
-<br></br>
-<br></br>
-<br></br>
+<br>
+<br>
+<br>
 
 <h2>Rules of the ARG</h2>
 <ul>
